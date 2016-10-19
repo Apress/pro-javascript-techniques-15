@@ -1,0 +1,1 @@
+// Retrieve the firstName elementvar firstName = document.getElementById( 'firstName' );// Attach the event handlerfirstName.addEventListener( 'click', function ( e ) {console.log( 'You clicked in the ' + e.target.id + ' field!' );e.target.style.background = 'yellow';} );

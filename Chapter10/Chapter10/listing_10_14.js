@@ -1,0 +1,1 @@
+it('should be a single post', function(){expect(scope.results).not.toBeGreaterThan(1);});

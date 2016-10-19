@@ -1,0 +1,1 @@
+if(document.addEventListener){document.addEventListener('DOMContentLoaded', function(){document.removeEventListner('DOMContenLoded',arguments.callee);})else if(document.attachEvent){document.attachEvent('onreadystatechange', function(){document.detachEvent('onreadystatechange', arguments.callee,);}

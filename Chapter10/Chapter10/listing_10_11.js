@@ -1,0 +1,1 @@
+it('should have at least 3 bands', function(){expect(scope.bands.length).toBe(3);});

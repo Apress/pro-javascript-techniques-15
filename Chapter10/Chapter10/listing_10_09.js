@@ -1,0 +1,1 @@
+$http.get('http://jsonplaceholder.typicode.com/photos/'+$routeParams.postId).success(function(data){$scope.results = data;});

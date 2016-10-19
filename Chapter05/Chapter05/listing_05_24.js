@@ -1,0 +1,1 @@
+function last( elem ) {elem = elem.lastChild;return elem && elem.nodeType != 1 ?prev ( elem ) : elem;}

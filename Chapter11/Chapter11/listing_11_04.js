@@ -1,0 +1,1 @@
+export const schoolName = 'Mickey Kullen Memorial High School';export const firstSport = 'Basketball';export function getPrincipal() {  // Probably a call to a server in the real worldreturn 'Jason Franzke';}export function fgPct(shots, baskets) {return baskets / shots;}

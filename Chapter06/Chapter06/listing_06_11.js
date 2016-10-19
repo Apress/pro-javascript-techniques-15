@@ -1,0 +1,1 @@
+function clickHandler(e) {console.log( 'Handled at ' + e.currentTarget.id );console.log( 'Emitted by ' + e.target.id );}var navbar = document.getElementById('navbar');navbar.addEventListener( 'click', clickHandler );

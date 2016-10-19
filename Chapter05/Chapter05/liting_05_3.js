@@ -1,0 +1,1 @@
+var ul = document.getElementById( 'items' );var liElements = ul.getElementsByClassName( 'test' );console.log( 'There are ' + liElements.length + ' elements in liElements.');

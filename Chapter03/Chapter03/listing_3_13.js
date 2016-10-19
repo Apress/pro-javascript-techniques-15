@@ -1,0 +1,1 @@
+// A regular functionfunction foo() {console.log( 'Called foo!' );}// Function assignmentvar bar = function () {console.log( 'Called bar!' );};// Function expression(function () {console.log( 'This function was invoked immediately!' )})();// Alternate syntax(function () {console.log( 'This function was ALSO invoked immediately!' )}());

@@ -1,0 +1,1 @@
+var names = ['John', 'Jon', 'José', 'Joseph', 'Mike','Andre', 'Melanie', 'Jaymi', 'Kathy', 'Jennifer'];names.find( function ( element, index ) {if ( element.startsWith( 'J' ) ) {console.log( 'The name %s at position %d starts with "J"!', element, index );}} );

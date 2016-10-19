@@ -1,0 +1,1 @@
+// Namespaces examplevar FOO = {};// Add a variableFOO.x = 10;// Add a functionFOO.addEmUp = function(x, y) {return x + y;};

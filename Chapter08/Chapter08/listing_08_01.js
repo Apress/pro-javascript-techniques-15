@@ -1,0 +1,1 @@
+// Create the request objectvar xml = new XMLHttpRequest();// If we needed to do any special configuration, we would do it here// Open the socketxml.open('GET', '/some/url.cgi', true);// Establish the connection to the server and send any additional dataxml.send();

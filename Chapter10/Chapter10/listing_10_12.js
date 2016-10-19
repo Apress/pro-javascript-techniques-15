@@ -1,0 +1,1 @@
+it('should have the second album be Wish', function(){expect(scope.bands[1].album).toEqual('Wish');});

@@ -1,0 +1,1 @@
+angular.module('chapter10App').controller('AboutCtrl', function ($scope, $http) {$scope.awesomeThings = ['HTML5 Boilerplate','AngularJS','Karma'];$scope.onButtonClick = function(){console.log('hello world');};});

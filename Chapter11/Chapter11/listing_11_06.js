@@ -1,0 +1,1 @@
+System.import( 'test-module' ).then( school => {console.log('The principal of %s is %s.', school.schoolName, school.getPrincipal());} ).catch( error => {console.error( 'Something has gone horribly wrong.' );} );

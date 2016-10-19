@@ -1,0 +1,1 @@
+// Non-Mozilla Browsers:strongElem.innerText// All platforms including Non-Mozilla browsers:strongElem.firstChild.nodeValue

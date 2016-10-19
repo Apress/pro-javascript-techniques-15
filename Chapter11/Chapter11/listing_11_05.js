@@ -1,0 +1,1 @@
+import * as school from 'test-module';console.log('The principal of %s is %s.', school.schoolName, school.getPrincipal());

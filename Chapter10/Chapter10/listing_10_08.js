@@ -1,0 +1,1 @@
+.controller('PostCtrl', function($scope, $routeParams, $http){$scope.awesomeThings = ['HTML5 Boilerplate','AngularJS','Karma'];});

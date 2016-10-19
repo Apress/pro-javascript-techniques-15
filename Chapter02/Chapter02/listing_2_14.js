@@ -1,0 +1,1 @@
+function aFunction(x, y, z) {var argsArray = Array.prototype.slice.call( arguments, 0 );console.log( 'The last argument is: ' + argsArray.pop() );}// Will output 'The last argument is 3'.aFunction( 1, 2, 3 );
